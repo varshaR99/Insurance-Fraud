@@ -22,6 +22,9 @@ ion, reducing the workload for human auditors.
 Enhanced Accuracy: Machine learning models like XGBoost provide high accuracy, minimizing false positives and negatives.
 Data Security: AES encryption ensures that sensitive customer information remains secure throughout the process.
 Cost Savings: By detecting fraud early, the system helps reduce financial losses for insurance companies.
-![Screenshot (553)](https://github.com/user-attachments/assets/2c25c83c-2a7a-4acc-b018-765516019627)
+![Screenshot (554)](https://github.com/user-attachments/assets/f3755efc-ed8b-4e5b-b6ef-0fb7a8cea455)
 
 ![Screenshot (555)](https://github.com/user-attachments/assets/eae75c4c-1c48-4c27-be3f-82f02a65cae4)
+
+![Capture12](https://github.com/user-attachments/assets/5b18df4c-0ce8-4677-bf1c-bb14d5a84bd4)
+
