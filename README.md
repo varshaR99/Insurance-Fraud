@@ -8,6 +8,8 @@ NLP (Natural Language Processing) for Document Analysis: When a user uploads a c
 
 Secure Data Handling with AES Encryption: Given the sensitive nature of insurance data, security is a top priority. To ensure that customer data, including personal and financial information, is protected, the system uses AES (Advanced Encryption Standard) encryption. This encryption system secures the data at rest, meaning any customer data stored in the database is encrypted to prevent unauthorized access.
 
+FLASK is used in the backend. 
+
 Fraud Detection Workflow:
 
 A user uploads their claim document via the website.
